@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/p2p-dataservice" />
+    <file type="web" url="file://$PROJECT_DIR$/p2p-pay" />
+    <file type="web" url="file://$PROJECT_DIR$/p2p-timer" />
+    <file type="web" url="file://$PROJECT_DIR$/p2p-web" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/p2p-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-exterface/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-dataservice/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-web/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-common/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-mybatisGenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-timer/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-httpClient/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-QRCode/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
